@@ -6,7 +6,7 @@ public class ForTest {
 		/*char[] ASD={'A','B','C','D','E'};
 		// TODO Auto-generated meta stub
 		//Tapan kumar Rout 123@345
-		 //secndcomit of forchk  in kk
+		 //secndcomit of forchk 
 		 
 		for(int i=1;i<=5;i++ )
 		{
